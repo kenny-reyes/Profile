@@ -1,13 +1,16 @@
 # Profile
 
+## CV
+
 - [My CV in english](./CV/CV_en.md)
 - [My CV in spanish](./CV/CV_es.md)
 
-# Links
+## Links
 
-- [Linkedin]()
-- [GitHub]()
+- [Linkedin](https://www.linkedin.com/in/kenny-reyes-26506918/)
+- [GitHub](https://github.com/kenny-reyes)
+- [Blog](https://geeks.ms/windowsplatform/author/kreyes/)
 
-# More
+## More
 
 - [VSCode pluggins](./Resources/VSCodePluggins)

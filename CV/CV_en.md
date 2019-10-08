@@ -1,20 +1,19 @@
-# Extracto
+# Summary
 
-# Experiencia
+# Experience
 
 ## [Plain Concepts](http://www.plainconcepts.com)
-
 
 I worked in more than 30 projects in different contexts, business needs, and technologies. In addition, I worked providing consulting services for our clients and teaching courses on several topics that I have expertise in.
 They have been years of very intensive work, sometimes working on several projects at the same time, so many amazing challenges and of enormous learning and growth in both technical and human skills.
 
 My main roles within the company have been:
 
-- Development and development lead: I worked on a wide variety of different projects such as APIs, Webs, Mobile, Bots and desktop applications and technologies like .NET Core, React, MVC5, Bots, Angular, NodeJS, Azure, WPF, UWP, Xamarin, SQL Server, PostgreSQL, Entity Framework and more.
-- Architecture: Designing the architectures and configure the initial scaffolding for new projects.
-- DevOps Engineering: Working with Git, Azure, Azure DevOps and Docker providing a deep knowledge to our internal teams and some of our customers.
-- Team Building: Providing knowledge in agile methodologies, repository management, issues management, good practices and building teams, who work with good coordination, performance and best practices (Gitflow, continuous code review, tests, design patterns, traceability, and clean code)
-- Learning services: act as a teacher providing mentoring about Git, how to manage repositories and development workflows, DevOps, in addition to agile methodologies with internal and external teams.
+- Development and development lead\_\_: I worked on a wide variety of different projects such as APIs, Webs, Mobile, Bots and desktop applications and technologies like .NET Core, React, MVC5, Bots, Angular, NodeJS, Azure, WPF, UWP, Xamarin, SQL Server, PostgreSQL, Entity Framework and more.
+- **Architecture**: Designing the architectures and configure the initial scaffolding for new projects.
+- **DevOps Engineering**: Working with Git, Azure, Azure DevOps and Docker providing a deep knowledge to our internal teams and some of our customers.
+- **Team Building**: Providing knowledge in agile methodologies, repository management, issues management, good practices and building teams, who work with good coordination, performance and best practices (Gitflow, continuous code review, tests, design patterns, traceability, and clean code)
+- **Learning services**: act as a teacher providing mentoring about Git, how to manage repositories and development workflows, DevOps, in addition to agile methodologies with internal and external teams.
 
 I usually was responsible for our customers, both national and international.
 
@@ -57,8 +56,6 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Git
 - Agile
 - Testing
-- Mood and diplomacy
-- Deft touch
 - Clean code
 
 ## New skills
@@ -83,8 +80,10 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Motivation
 - Architecture patterns
 - Docker
+- Mood and diplomacy
+- Deft touch
 
-## Future. To Do. To Learn
+## Learning
 
 - Testing in frontend
 - Kubernetes
