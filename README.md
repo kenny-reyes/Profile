@@ -13,4 +13,4 @@
 
 ## More
 
-- [VSCode pluggins](./Resources/VSCodePluggins)
+- [VSCode pluggins](./Resources/VSCodePluggins.md)
