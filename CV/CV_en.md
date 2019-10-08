@@ -1,5 +1,12 @@
 # Summary
 
+Proactive, methodical, enthusiastic, curious and passionate about learning and mastering new technologies. This has led me to evolve towards an extremely versatile professional, I can learn easily and change between different contexts, parallelize projects or manage national and international customers.
+
+My work and my knowledge go from the initial offer, evolution, the kick-off the project, the architecture design, scaffolding, agile methodologies, teamwork, clean code and code style, testing, DevOps and automation of environments, deploy and the delivery of the project.
+
+In addition, I can teach and build teams and guide them across implementing agile methodologies and good practices.
+I will give value to the jobs of technical lead, or 100% remote jobs.
+
 # Experience
 
 ## [Plain Concepts](http://www.plainconcepts.com)
@@ -15,26 +22,27 @@ My main roles within the company have been:
 - **Team Building**: Providing knowledge in agile methodologies, repository management, issues management, good practices and building teams, who work with good coordination, performance and best practices (Gitflow, continuous code review, tests, design patterns, traceability, and clean code)
 - **Learning services**: act as a teacher providing mentoring about Git, how to manage repositories and development workflows, DevOps, in addition to agile methodologies with internal and external teams.
 
-I usually was responsible for our customers, both national and international.
+I usually was responsible for our customers, national and international ones.
 
 ## [Sedecal](http://www.sedecal.com)
 
-Applicaciones de control medicas.
+Industrial sector, electromedicine, design and manufacture of medical equipment stories such as X-ray machinery, TAC, Ozone, PET, Veterinary and portable equipment. I learned a lot about how to manage international clients, work with foreign teams (Japanese, Chinese, British, American), or teamwork with disciplines other than mine, such as mechanical engineers, power or electronic engineers and integrate the software into different systems customized or included from 0. In addition I was responsible for veterinary applications software, intervened in the development of new product software including the most ambitious project of the company.
+
+- Design of multitouch applications in medical environments.
+- UX designing.
+- MVVM architecture, modular design with PRISM and skineables GUIs
+- Design and animations with Expression Blend
+  Design and implementation of the single touch 2 multi-touch console application for X-rays with WPF, MVVM, skineable and modular design.
+- Design of tools for veterinary editing and manufacturing.
+- Deploy license servers, license development GUI design and participation in the development of the multi-touch console of the ChallengeX suspension system console.
+- Integration and collaboration with foreign companies.
+- Continuous Integration with Genkins. SCRUM. Unit testing. Git.
 
 ## [Amper](https://www.grupoamper.com/)
 
-Trabajo en cliente, industria militar, proyectos GIS con tecnología .NET y GUI's de ultima generación.
-
 ## Animasoft
 
-Departamento de desarrollo en firma de software comercial. Trabajando en diseño e implementación de aplicaciones Windows en .NET.
-Desarrollo de aplicaciones y herramientas comerciales para PYMES tales como GestPeple.
-Diseño, Análisis, Desarrollo, apoyo y test de productos usando .NET 3.5 Explotando al máximo las tecnologías WPF y WCF, XPS, SQLServer y Herramientas de diseño avanzadas tales como Microsoft Visual Studio 2010 o Microsoft Expresión Blend y alcanzando gran nivel en dichos conocimientos. Arquitectura en 3 capas, arquitectura cliente servidor, arquitectura SOA A veces trabajando con metodologías ágiles, tales como SCRUM.
-A cargo de la arquitectura y diseño del ultimo proyecto de la firma, un gestor documental aun en desarrollo.
-
 ## [Alma Technologies](http://www.almatech.es/)
-
-Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos internos (.NET) Desarrollador .NET en proyecto de solución de búsqueda interna para empresa importante del País. Encargado y responsable del diseño y funcionamiento de la aplicación de administración del sistema de búsqueda (Usando Web Services, Active directory, BBDD oracle y XMLs. Desarrollo de la interfaz web (ASP.NET, ajax, ASP.NET AJAX, javascript, CSS y DOM)
 
 # Skills
 
@@ -58,7 +66,7 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Testing
 - Clean code
 
-## New skills
+## Newest skills
 
 - Mobility UWP
 - Mobility Xamarin

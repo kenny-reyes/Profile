@@ -1,6 +1,6 @@
 # Sobre mi
 
-De carácter proactivo, metódico, entusiasta y curioso, y apasionado por aprender y dominar las nuevas tecnologías. Esto me ha llevado a evolucionar hacia un profesional extremadamente versátil, tengo facilidad para aprender y cambiar de contexto, paralelizar proyectos, gestionar clientes nacionales o internacionales.
+De carácter proactivo, metódico, entusiasta, curioso, y apasionado por aprender nuevas tecnologías. Esto me ha llevado a evolucionar hacia un profesional extremadamente versátil, tengo facilidad para aprender y cambiar de contexto, paralelizar proyectos o gestionar clientes nacionales e internacionales.
 
 Mi trabajo y conocimiento abarca desde la oferta inicial, estimación, el kick off del proyecto, pasando por el diseño de la arquitectura, scaffolding, metodologías ágiles, trabajo en equipo, código limpio y estilo de código, pruebas, DevOps y automatización de entornos, garantía y entrega final.
 
