@@ -1,3 +1,10 @@
+<h1 align="center"> Kenny Reyes </h1> <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenny-reyes-26506918/">
+    <img alt="Kenny Reyes" title="Kenny Reyes" src="/images/profileImage.jpg" width="300">
+  </a>
+</p>
+
 # Sobre mi
 
 De carácter proactivo, metódico, entusiasta, curioso, y apasionado por aprender nuevas tecnologías. Esto me ha llevado a evolucionar hacia un profesional extremadamente versátil, tengo facilidad para aprender y cambiar de contexto, paralelizar proyectos o gestionar clientes nacionales e internacionales.

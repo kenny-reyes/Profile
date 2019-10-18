@@ -1,3 +1,10 @@
+<h1 align="center"> Kenny Reyes </h1> <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenny-reyes-26506918/">
+    <img alt="Kenny Reyes" title="Kenny Reyes" src="/images/profileImage.jpg" width="300">
+  </a>
+</p>
+
 # Summary
 
 Proactive, methodical, enthusiastic, curious and passionate about learning and mastering new technologies. This has led me to evolve towards an extremely versatile professional, I can learn easily and change between different contexts, parallelize projects or manage national and international customers.
