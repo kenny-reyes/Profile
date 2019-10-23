@@ -14,3 +14,9 @@
 ## More
 
 - [VSCode pluggins](./Resources/VSCodePluggins.md)
+
+<p align="center">
+  <a href="https://www.rust-lang.org/">
+    <img alt="Rust" src="https://www.rust-lang.org/static/images/ferris.gif">
+  </a>
+</p>

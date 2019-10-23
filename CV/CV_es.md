@@ -1,7 +1,7 @@
 <h1 align="center"> Kenny Reyes </h1> <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/kenny-reyes-26506918/">
-    <img alt="Kenny Reyes" title="Kenny Reyes" src="/images/profileImage.jpg" width="300">
+    <img alt="Kenny Reyes" title="Kenny Reyes" src="../images/profileImage.jpg" width="300">
   </a>
 </p>
 
