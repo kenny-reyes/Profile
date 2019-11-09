@@ -45,7 +45,7 @@ Aprendi mucho sobre como gestionar clientes internacionales, trabajar con equipo
 - Despliegue servidores de licencia, desarrollo de licencias
   Diseño de la GUI y participación en el desarrollo de la consola multitáctil de la consola del sistema de suspensión ChallengeX.
 - Integración y colaboración con empresas extranjeras.
-- Integracion Continua con **Genkins. SCRUM. Unit testing. Git**.
+- Integracion Continua con **Jenkins. SCRUM. Unit testing. Git**.
 
 ## [Amper](https://www.grupoamper.com/)
 

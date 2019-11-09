@@ -33,23 +33,44 @@ I usually was responsible for our customers, national and international ones.
 
 ## [Sedecal](http://www.sedecal.com)
 
-Industrial sector, electromedicine, design and manufacture of medical equipment stories such as X-ray machinery, TAC, Ozone, PET, Veterinary and portable equipment. I learned a lot about how to manage international clients, work with foreign teams (Japanese, Chinese, British, American), or teamwork with disciplines other than mine, such as mechanical engineers, power or electronic engineers and integrate the software into different systems customized or included from 0. In addition I was responsible for veterinary applications software, intervened in the development of new product software including the most ambitious project of the company.
+Healthcare industrial sector, design, and manufacture of medical equipment such as X-ray machines, TAC, Ozone, PET, Veterinary and portable equipment. I learned a lot about how to manage international clients, work with foreign teams (Japanese, Chinese, British, American), or teamwork with disciplines other than mine, such as mechanical engineers, power or electronics engineers and integrate the software into different systems customized or developed from 0. In addition, I was responsible for the veterinary software, I developed the newest software, including the most ambitious project of the company.
 
 - Design of multitouch applications in medical environments.
 - UX designing.
-- MVVM architecture, modular design with PRISM and skineables GUIs
+- **MVVM** architecture, modular design with **PRISM** and skinnable GUIs
 - Design and animations with Expression Blend
-  Design and implementation of the single touch 2 multi-touch console application for X-rays with WPF, MVVM, skineable and modular design.
+  Design and implementation of the single touch 2 multi-touch console application for X-rays with WPF, MVVM, skinnable, customizable and modular design.
 - Design of tools for veterinary editing and manufacturing.
 - Deploy license servers, license development GUI design and participation in the development of the multi-touch console of the ChallengeX suspension system console.
 - Integration and collaboration with foreign companies.
-- Continuous Integration with Genkins. SCRUM. Unit testing. Git.
+- Continuous Integration with **Jenkins**. **SCRUM**. **Unit testing**. **Git**.
 
 ## [Amper](https://www.grupoamper.com/)
 
+I worked in Amper Programs which is a section of Amper dedicated to military software, and GIS applications.
+
+- Design, analysis, development of interfaces in **GIS** systems. Military command and control applications with **.NET, WPF and WCF, SQL Server**. Architecture **MVVM**, client-server architecture, **SOA** architecture.
+- Development of the BNQ war plug-in (bacteriological, nuclear, chemical) for the NE.ON platform. Architecture **DDD**, Architecture **MVVM**.
+
 ## Animasoft
 
+I worked in the development department in a commercial software brand. Working on the design and implementation of Windows applications in .NET. Development of applications and commercial tools for SMEs.
+
+- Development and part of the design of the tool for human resource management **GestPeople**. Using **.NET framework, Windows Forms, WPF, Web Services, XMLs, and OLEDB**. Also using code obfuscators, encryption algorithms, InstallShield...
+- Issues management and test tools such as Bugtracker and **NUnit**.
+- Development and design of the business Web, on **ASP.NET, Silverlight, SQL Server, and hosted in IIS**.
+- Start-up of business blogs for SEO functions.
+- Design of the error management system and patching system of the company's applications, architecture **SOA** with **WCF**.
+- In charge of the architecture and design of the latest project of the company, the document manager _Anaquel_. Development in .NET Framework, client-server architecture. Using for the project **WPF and WCF, XPS, SQL Server, Visual Studio and Expression Blend**.
+- Project risk analysis.
+- Supporting the marketing department.
+
 ## [Alma Technologies](http://www.almatech.es/)
+
+R&D department, I worked on search engine interfaces and internal projects **(.NET)**
+
+- Design and development of the status monitor, the administration application that controls the search system, I also took part in the development of the search solution project for the CNI (national intelligence center). Developed in C#, **using Web Services, Active Directory Queries, Oracle database queries, and XML processing**.
+- Developed the Web administration interface of the project. Using **C#, ASP.NET AJAX, javascript and CSS**.
 
 # Skills
 
