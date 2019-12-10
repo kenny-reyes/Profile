@@ -23,7 +23,7 @@ They have been years of very intensive work, sometimes working on several projec
 
 My main roles within the company have been:
 
-- Development and development lead\_\_: I worked on a wide variety of different projects such as APIs, Webs, Mobile, Bots and desktop applications and technologies like .NET Core, React, MVC5, Bots, Angular, NodeJS, Azure, WPF, UWP, Xamarin, SQL Server, PostgreSQL, Entity Framework and more.
+- **Development and development lead**: I worked on a wide variety of different projects such as APIs, Webs, Mobile, Bots and desktop applications and technologies like .NET Core, React, MVC5, Bots, Angular, NodeJS, Azure, WPF, UWP, Xamarin, SQL Server, PostgreSQL, Entity Framework and more.
 - **Architecture**: Designing the architectures and configure the initial scaffolding for new projects.
 - **DevOps Engineering**: Working with Git, Azure, Azure DevOps and Docker providing a deep knowledge to our internal teams and some of our customers.
 - **Team Building**: Providing knowledge in agile methodologies, repository management, issues management, good practices and building teams, who work with good coordination, performance and best practices (Gitflow, continuous code review, tests, design patterns, traceability, and clean code)
