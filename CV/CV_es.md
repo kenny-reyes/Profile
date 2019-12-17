@@ -83,6 +83,8 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 
 - Patterns
 - Clean code
+- .NET Full Framework
+- CSharp (C#)
 - Agile
 - IC
 - WPF
@@ -95,15 +97,27 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Testing
 - UWP
 - Git
-- Agile
+- Agile methodologies
 - Testing
 - Clean code
+- SQL Server
+- Oracle
+- Entity Framework
+- LINQ
+- ASP .NET MVC
+- ASP. NET Web Api
+- WCF (Windows Communication Foundation)
+- Solid principles
+- DDD
+- IoC
 
 ## Recientes
 
+- .NET Core
+- EF Core
 - Mobility UWP
 - Mobility Xamarin
-- Customer management
+- Customer care
 - MVC 5
 - MVC Core
 - Bots
@@ -123,6 +137,8 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Docker
 - Mood and diplomacy
 - Deft touch
+- Sonar Qube
+- Pull requests
 
 ## Futuro. Estoy aprendiendo
 

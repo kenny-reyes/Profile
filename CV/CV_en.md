@@ -78,6 +78,8 @@ R&D department, I worked on search engine interfaces and internal projects **(.N
 
 - Patterns
 - Clean code
+- .NET Full Framework
+- CSharp (C#)
 - Agile
 - IC
 - WPF
@@ -90,12 +92,24 @@ R&D department, I worked on search engine interfaces and internal projects **(.N
 - Testing
 - UWP
 - Git
-- Agile
+- Agile methodologies
 - Testing
 - Clean code
+- SQL Server
+- Oracle
+- Entity Framework
+- LINQ
+- ASP .NET MVC
+- ASP. NET Web Api
+- WCF (Windows Communication Foundation)
+- Solid principles
+- DDD
+- IoC
 
 ## Newest skills
 
+- .NET Core
+- EF Core
 - Mobility UWP
 - Mobility Xamarin
 - Customer care
@@ -118,6 +132,8 @@ R&D department, I worked on search engine interfaces and internal projects **(.N
 - Docker
 - Mood and diplomacy
 - Deft touch
+- Sonar Qube
+- Pull requests
 
 ## Learning
 
