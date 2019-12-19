@@ -12,6 +12,9 @@ Proactive, methodical, enthusiastic, curious and passionate about learning and m
 My work and my knowledge go from the initial offer, evolution, the kick-off the project, the architecture design, scaffolding, agile methodologies, teamwork, clean code and code style, testing, DevOps and automation of environments, deploy and the delivery of the project.
 
 In addition, I can teach and build teams and guide them across implementing agile methodologies and good practices.
+
+I am in love with Git❤️ and Docker❤️
+
 I will give value to the jobs of technical lead, or 100% remote jobs.
 
 # Experience

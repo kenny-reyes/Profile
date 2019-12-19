@@ -13,6 +13,8 @@ Mi trabajo y conocimiento abarca desde la oferta inicial, estimación, el kick o
 
 Ademas de formar y coordinar equipos e implantar metodologías de trabajo y buenas prácticas.
 
+Enamorado de Git❤️ y Docker❤️
+
 En este momento estoy en retiro temporal, replanteándomelo todo, valoro ofertas de technical lead, en el extranjero o 100% remoto.
 
 # Experiencia
