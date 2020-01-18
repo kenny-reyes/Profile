@@ -15,8 +15,6 @@ Ademas de formar y coordinar equipos e implantar metodologías de trabajo y buen
 
 Enamorado de Git❤️ y Docker❤️
 
-En este momento estoy en retiro temporal, replanteándomelo todo, valoro ofertas de technical lead, en el extranjero o 100% remoto.
-
 # Experiencia
 
 ## [Plain Concepts](http://www.plainconcepts.com)
@@ -81,8 +79,6 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 
 # Conocimientos
 
-## Conocimientos
-
 - Patterns
 - Clean code
 - .NET Full Framework
@@ -90,10 +86,10 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Agile
 - IC
 - WPF
-- Insdustrial Software
+- Industrial Software
 - Healthcare industry
 - Integrations with equipment
-- Software archicture
+- Software architecture
 - Solid principles
 - Git
 - Testing
@@ -112,9 +108,6 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Solid principles
 - DDD
 - IoC
-
-## Recientes
-
 - .NET Core
 - EF Core
 - Mobility UWP
@@ -128,7 +121,7 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Teaching
 - javascript
 - NodeJS
-- DevOps (Azure DevOps, Genkins)
+- DevOps (Azure DevOps, Jenkins)
 - React
 - Multiple architectures
 - Cognitive
@@ -139,13 +132,14 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
 - Docker
 - Mood and diplomacy
 - Deft touch
-- Sonar Qube
+- SonarQube
 - Pull requests
 
-## Futuro. Estoy aprendiendo
+## Learning
 
 - Testing in frontend
 - Kubernetes
 - Python
 - Big Data
 - Rust
+- Kotlin

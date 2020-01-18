@@ -15,11 +15,13 @@ In addition, I can teach and build teams and guide them across implementing agil
 
 I am in love with Git❤️ and Docker❤️
 
-I will give value to the jobs of technical lead, or 100% remote jobs.
+<br/>
 
 # Experience
 
 ## [Plain Concepts](http://www.plainconcepts.com)
+
+### March 2015 - October 2019 (4 years 8 months)
 
 I worked in more than 30 projects in different contexts, business needs, and technologies. In addition, I worked providing consulting services for our clients and teaching courses on several topics that I have expertise in.
 They have been years of very intensive work, sometimes working on several projects at the same time, so many amazing challenges and of enormous learning and growth in both technical and human skills.
@@ -34,9 +36,13 @@ My main roles within the company have been:
 
 I usually was responsible for our customers, national and international ones.
 
+<br/>
+
 ## [Sedecal](http://www.sedecal.com)
 
-Healthcare industrial sector, design, and manufacture of medical equipment such as X-ray machines, TAC, Ozone, PET, Veterinary and portable equipment. I learned a lot about how to manage international clients, work with foreign teams (Japanese, Chinese, British, American), or teamwork with disciplines other than mine, such as mechanical engineers, power or electronics engineers and integrate the software into different systems customized or developed from 0. In addition, I was responsible for the veterinary software, I developed the newest software, including the most ambitious project of the company.
+### March 2012 - March 2015 (3 years 1 month)
+
+I worked as Software Engineer in healthcare industrial sector, design, and manufacture of medical equipment such as X-ray machines, TAC, Ozone, PET, Veterinary and portable equipment. I learned a lot about how to manage international clients, work with foreign teams (Japanese, Chinese, British, American), or teamwork with disciplines other than mine, such as mechanical engineers, power or electronics engineers and integrate the software into different systems customized or developed from 0. In addition, I was responsible for the veterinary software, I developed the newest software, including the most ambitious project of the company.
 
 - Design of multitouch applications in medical environments.
 - UX designing.
@@ -48,14 +54,22 @@ Healthcare industrial sector, design, and manufacture of medical equipment such 
 - Integration and collaboration with foreign companies.
 - Continuous Integration with **Jenkins**. **SCRUM**. **Unit testing**. **Git**.
 
+<br/>
+
 ## [Amper](https://www.grupoamper.com/)
 
-I worked in Amper Programs which is a section of Amper dedicated to military software, and GIS applications.
+### March 2011 - March 2012 (1 year)
+
+I worked as Software Engineer in Amper Programs which is a section of Amper dedicated to military software, and GIS applications.
 
 - Design, analysis, development of interfaces in **GIS** systems. Military command and control applications with **.NET, WPF and WCF, SQL Server**. Architecture **MVVM**, client-server architecture, **SOA** architecture.
 - Development of the BNQ war plug-in (bacteriological, nuclear, chemical) for the NE.ON platform. Architecture **DDD**, Architecture **MVVM**.
 
+<br/>
+
 ## Animasoft
+
+### October 2008 - March 2011 (2 years 6 months)
 
 I worked in the development department in a commercial software brand. Working on the design and implementation of Windows applications in .NET. Development of applications and commercial tools for SMEs.
 
@@ -68,12 +82,18 @@ I worked in the development department in a commercial software brand. Working o
 - Project risk analysis.
 - Supporting the marketing department.
 
+<br/>
+
 ## [Alma Technologies](http://www.almatech.es/)
 
-R&D department, I worked on search engine interfaces and internal projects **(.NET)**
+### January 2008 - October 2008 (10 months)
+
+I worked as Developer in hR&D department, I worked on search engine interfaces and internal projects **(.NET)**
 
 - Design and development of the status monitor, the administration application that controls the search system, I also took part in the development of the search solution project for the CNI (national intelligence center). Developed in C#, **using Web Services, Active Directory Queries, Oracle database queries, and XML processing**.
 - Developed the Web administration interface of the project. Using **C#, ASP.NET AJAX, javascript and CSS**.
+
+<br/>
 
 # Skills
 
@@ -86,10 +106,10 @@ R&D department, I worked on search engine interfaces and internal projects **(.N
 - Agile
 - IC
 - WPF
-- Insdustrial Software
+- Industrial Software
 - Healthcare industry
 - Integrations with equipment
-- Software archicture
+- Software architecture
 - Solid principles
 - Git
 - Testing
@@ -124,7 +144,7 @@ R&D department, I worked on search engine interfaces and internal projects **(.N
 - Teaching
 - javascript
 - NodeJS
-- DevOps (Azure DevOps, Genkins)
+- DevOps (Azure DevOps, Jenkins)
 - React
 - Multiple architectures
 - Cognitive
@@ -135,7 +155,7 @@ R&D department, I worked on search engine interfaces and internal projects **(.N
 - Docker
 - Mood and diplomacy
 - Deft touch
-- Sonar Qube
+- SonarQube
 - Pull requests
 
 ## Learning
