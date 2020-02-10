@@ -19,6 +19,12 @@ I am in love with Git❤️ and Docker❤️
 
 # Experience
 
+## Freelance
+
+### November 2019 - Actual
+
+Working as freelance in my technological scope: Backend developer, fullStack developer and Devops engineer.
+
 ## [Plain Concepts](http://www.plainconcepts.com)
 
 ### March 2015 - October 2019 (4 years 8 months)
@@ -165,3 +171,4 @@ I worked as Developer in hR&D department, I worked on search engine interfaces a
 - Python
 - Big Data
 - Rust
+- Kotlin

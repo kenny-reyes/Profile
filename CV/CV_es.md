@@ -17,7 +17,17 @@ Enamorado de Git❤️ y Docker❤️
 
 # Experiencia
 
+# Experience
+
+## Freelance
+
+### Noviembre 2019 - Actual
+
+Trabajando como freelance: Backend developer, fullStack developer and Devops engineer.
+
 ## [Plain Concepts](http://www.plainconcepts.com)
+
+### March 2015 - October 2019 (4 years 8 months)
 
 Trabajando en más de **30 proyectos** de muy diferente ámbito, además de consultoría, cursos impartidos y expertising. Han sido años de trabajo de un trabajo muy intensivo y de un enorme aprendizaje y crecimiento tanto en skills técnicas como humanas.
 
@@ -32,6 +42,8 @@ Mis roles:
 Además de la gestión con el cliente de forma habitual, tanto nacionales como internacionales.
 
 ## [Sedecal](http://www.sedecal.com)
+
+### March 2012 - March 2015 (3 years 1 month)
 
 Sector industrial, electromedicina, diseño y fabricacion de equipos médicos tales como maquinaria de Rayos X, TAC, Ozono, PET, Veterinaria y equipos portatiles.
 Aprendi mucho sobre como gestionar clientes internacionales, trabajar con equipos extrangeros (Japoneses, Chinos, Britanicos, Estadounidenses), o el trabajo en equipo con disciplinas diferentes a la mia, como ingenieros mecanicos, ingeneros de potencia o electronica e integrar el software en diferentes sistemas customizados o diseñados desde 0. Ademas fui el responsable del software de las aplicaciones de veterinaria, he intervenido en el desarrollo del software de nuevos productos incluyendo el proyecto mas ambicioso de la empresa.
@@ -56,6 +68,8 @@ Trabajando en Amper Programas. Seccion de la empresa dedicada al software milita
 
 ## Animasoft
 
+### October 2008 - March 2011 (2 years 6 months)
+
 Departamento de desarrollo en firma de software comercial. Trabajando en diseño e implementación de aplicaciones Windows en .NET. Desarrollo de aplicaciones y herramientas comerciales para PYMES.
 
 - Desarrollo y parte del diseño de la herramienta para gestión de recursos humanos GestPeople. Usando **.NET framework, Windows Forms, WPF, Web Services, XMLs, y OLEDB**. También usando ofuscadores de código, algoritmos de encriptado, InstallShield.
@@ -68,6 +82,8 @@ Departamento de desarrollo en firma de software comercial. Trabajando en diseño
 - Puntualmente dando soporte al departamento de marketing.
 
 ## [Alma Technologies](http://www.almatech.es/)
+
+### January 2008 - October 2008 (10 months)
 
 Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos internos (.NET)
 
