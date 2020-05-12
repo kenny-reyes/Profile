@@ -14,6 +14,7 @@
 ## More
 
 - [VSCode pluggins](./Resources/VSCodePluggins.md)
+- [Learning Guide](./images/slack-imgs.com.png)
 
 <p align="center">
   <a href="https://www.rust-lang.org/">
