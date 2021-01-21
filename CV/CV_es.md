@@ -19,11 +19,43 @@ Enamorado de Git❤️ y Docker❤️
 
 # Experience
 
-## Freelance
+## **Freelance**
 
 ### Noviembre 2019 - Actual
 
-Trabajando como freelance: Backend developer, fullStack developer and Devops engineer.
+Trabajando como freelance pongo a disposicion de mis clientes toda la experiencia y conocimientos acumulados, anteriormente descritos. He realizado y puedo realizar las funciones siguientes en mis respectivos scopes (fundamentalmente tecnologías microsoft):
+
+* **Software architect**
+* **Backend developer**
+* **FullStack developer**
+* **Devops engineer**
+* **Agile instructor**
+* **Mentoring**
+
+<br/>
+
+## [WayOps](https://wayops.eu/)
+### July 2020 - Actual
+
+* **Main Software Architect** at WayOps.
+* **Industry 4.0**: Projects for industrial solutions based in IoT and Gis and Data engineering.
+* **Azure Architect**: For IoT projects.
+* **DevOps Engineer**: Azure Devops CI CD pipelines.
+* **Agile methodology** instructor.
+
+<br/>
+
+## [Altran](https://www.altran.com/us/en/)
+### February 2020 - July 2020 (4 months)
+
+Working as a **Software Architect** at Altran ITHub. Also, working as:
+
+* .NET Core 3.1, React stack.
+* **Azure Architect**: Planning architectures and offers.
+* **DevOps Engineer**: Github, Azure Devops, GitLab CI CD pipelines.
+* **Agile methodology** instructor.
+
+<br/>
 
 ## [Plain Concepts](http://www.plainconcepts.com)
 
@@ -40,6 +72,8 @@ Mis roles:
 - **Impartir divulgar**: Impartiendo cursos de Git, manejar repositorios y flujos de trabajo y branching, DevOps y metodologías agiles.
 
 Además de la gestión con el cliente de forma habitual, tanto nacionales como internacionales.
+
+<br/>
 
 ## [Sedecal](http://www.sedecal.com)
 
@@ -59,12 +93,16 @@ Aprendi mucho sobre como gestionar clientes internacionales, trabajar con equipo
 - Integración y colaboración con empresas extranjeras.
 - Integracion Continua con **Jenkins. SCRUM. Unit testing. Git**.
 
+<br/>
+
 ## [Amper](https://www.grupoamper.com/)
 
 Trabajando en Amper Programas. Seccion de la empresa dedicada al software militar, y aplicaciones GIS.
 
 - Diseño, Análisis, Desarrollo de interfaces en sistemas **GIS**. Aplicaciones militares de mando y control de con **.NET, WPF y WCF, SQL Server**. Arquitectura **MVVM**, arquitectura cliente servidor, arquitectura **SOA**.
 - Desarrollo del pluggin de Guerra BNQ (bacteriológica, nuclear, química) para la plataforma NE.ON. Arquitectura **DDD**, Arquitectura **MVVM**.
+
+<br/>
 
 ## Animasoft
 
@@ -81,6 +119,8 @@ Departamento de desarrollo en firma de software comercial. Trabajando en diseño
 - Análisis de riesgos de proyectos.
 - Puntualmente dando soporte al departamento de marketing.
 
+<br/>
+
 ## [Alma Technologies](http://www.almatech.es/)
 
 ### January 2008 - October 2008 (10 months)
@@ -92,6 +132,9 @@ Departamento I+D trabajando en interfaces de motores de búsqueda, proyectos int
   buen funcionamiento de los servidores del sistema de búsqueda parte del proyecto de solución de búsqueda para el CNI (centro nacional de inteligencia). Desarrollado en C# usando para ello Web Services, Consultas al directorio activo, consultas a bases de datos
   Oracle y tratamiento de XMLs.
 - Desarrollado de la interfaz de administración Web del proyecto. Usando C#, ASP.NET, Ajax, ASP.NET AJAX, javascript y CSS.
+
+
+<br/>
 
 # Conocimientos
 

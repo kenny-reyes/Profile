@@ -1,4 +1,4 @@
-# Profile
+# Kenny Reyes profile
 
 ## CV
 
@@ -7,9 +7,10 @@
 
 ## Links
 
-- [Linkedin](https://www.linkedin.com/in/kenny-reyes-26506918/)
+- [LinkedIn](https://www.linkedin.com/in/kenny-reyes-26506918/)
 - [GitHub](https://github.com/kenny-reyes)
-- [Blog](https://geeks.ms/windowsplatform/author/kreyes/)
+- [Personal Blog](https://kenny-reyes.github.io)
+- [Another Blog](https://geeks.ms/windowsplatform/author/kreyes/)
 
 ## More
 

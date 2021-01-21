@@ -19,11 +19,43 @@ I am in love with Git❤️ and Docker❤️
 
 # Experience
 
-## Freelance
+## **Freelance**
 
 ### November 2019 - Actual
 
-Working as freelance in my technological scope: Backend developer, fullStack developer and Devops engineer.
+Working as a freelancer, I give to my clients all the experience and knowledge accumulated, previously described. I have performed and can perform the following functions on my respective scopes (mainly Microsoft technologies):
+
+* **Software architect**
+* **Backend developer**
+* **FullStack developer**
+* **Devops engineer**
+* **Agile instructor**
+* **Mentoring**
+
+<br/>
+
+## [WayOps](https://wayops.eu/)
+### July 2020 - Actual
+
+* **Main Software Architect** at WayOps.
+* **Industry 4.0**: Projects for industrial solutions based in IoT and Gis and Data engineering.
+* **Azure Architect**: For IoT projects.
+* **DevOps Engineer**: Azure Devops CI CD pipelines.
+* **Agile methodology** instructor.
+
+<br/>
+
+## [Altran](https://www.altran.com/us/en/)
+### February 2020 - July 2020 (4 months)
+
+Working as a **Software Architect** at Altran ITHub. Also, working as:
+
+* .NET Core 3.1, React stack.
+* **Azure Architect**: Planning architectures and offers.
+* **DevOps Engineer**: Github, Azure Devops, GitLab CI CD pipelines.
+* **Agile methodology** instructor.
+
+<br/>
 
 ## [Plain Concepts](http://www.plainconcepts.com)
 
